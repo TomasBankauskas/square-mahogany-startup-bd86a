@@ -1,0 +1,37 @@
+{
+    "model": "FeaturedItemsSection",
+    "presets": [
+        {
+            "label": "3 columns light",
+            "thumbnail": "images/items-3-col-light.png",
+            "data": {
+                "colors": "colors-a",
+                "columns": 3
+            }
+        },
+        {
+            "label": "2 columns light",
+            "thumbnail": "images/items-2-col-light.png",
+            "data": {
+                "colors": "colors-a",
+                "columns": 2
+            }
+        },
+        {
+            "label": "3 columns dark",
+            "thumbnail": "images/items-3-col-dark.png",
+            "data": {
+                "colors": "colors-c",
+                "columns": 3
+            }
+        },
+        {
+            "label": "2 columns dark",
+            "thumbnail": "images/items-2-col-dark.png",
+            "data": {
+                "colors": "colors-c",
+                "columns": 2
+            }
+        }
+    ]
+}
