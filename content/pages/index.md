@@ -407,6 +407,8 @@ sections:
         borderColor: border-dark
       title:
         textAlign: center
+        margin:
+          - mb-6
       subtitle:
         textAlign: center
       actions:
