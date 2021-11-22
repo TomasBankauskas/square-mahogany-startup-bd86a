@@ -20,7 +20,7 @@ sections:
         altText: Media gallery image
         caption: Image caption
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
+        url: /images/google-play.svg
         altText: Media gallery image
         caption: Image caption
     spacing: 1
