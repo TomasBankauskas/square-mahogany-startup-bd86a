@@ -111,7 +111,7 @@
             "label": "Quote light - no bg image, text center",
             "thumbnail": "images/quote-light-left.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-c",
                 "backgroundImage": null,
                 "styles": {
                     "self": {
