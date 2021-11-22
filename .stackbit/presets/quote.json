@@ -109,7 +109,7 @@
         },
         {
             "label": "Quote dark - no bg image, text center",
-            "thumbnail": "images/quote-dark-left.png",
+            "thumbnail": "images/quote-dark-center.png",
             "data": {
                 "colors": "colors-c",
                 "backgroundImage": null,
