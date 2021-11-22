@@ -7,14 +7,19 @@
                 "colors": "colors-c",
                 "backgroundImage": {
                     "url": "https://assets.stackbit.com/components/images/default/bg.jpg",
-                    "altText": "Product Marketing Manager Quote"
+                    "altText": "Product Marketing Manager Quote",
+                    "styles": {
+                        "self": {
+                            "opacity": 50
+                        }
+                    }
                 },
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                        "padding": ["pt-36", "pb-36", "pl-4", "pr-4"],
                         "justifyContent": "flex-start"
                     },
                     "quote": {
@@ -40,14 +45,19 @@
                 "colors": "colors-c",
                 "backgroundImage": {
                     "url": "https://assets.stackbit.com/components/images/default/bg.jpg",
-                    "altText": "Product Marketing Manager Quote"
+                    "altText": "Product Marketing Manager Quote",
+                    "styles": {
+                        "self": {
+                            "opacity": 50
+                        }
+                    }
                 },
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                        "padding": ["pt-36", "pb-36", "pl-4", "pr-4"],
                         "justifyContent": "flex-end"
                     },
                     "quote": {
@@ -77,7 +87,7 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                        "padding": ["pt-36", "pb-36", "pl-4", "pr-4"],
                         "justifyContent": "flex-start"
                     },
                     "quote": {
@@ -109,7 +119,7 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
-                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
+                        "padding": ["pt-36", "pb-36", "pl-4", "pr-4"],
                         "justifyContent": "flex-end"
                     },
                     "quote": {
