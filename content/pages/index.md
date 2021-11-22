@@ -8,7 +8,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-1.jpeg'
+        url: /images/apple.svg
         altText: Media gallery image
         caption: Image caption
       - type: ImageBlock
