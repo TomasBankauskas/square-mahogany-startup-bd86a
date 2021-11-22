@@ -40,7 +40,7 @@
             }
         },
         {
-            "label": "Quote light -  bg image, text left",
+            "label": "Quote light - no bg image, text left",
             "thumbnail": "images/quote-light-left.png",
             "data": {
                 "colors": "colors-a",
