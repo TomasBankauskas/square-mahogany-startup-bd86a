@@ -18,19 +18,19 @@
             }
         },
         {
-            "label": "2 columns dark",
-            "thumbnail": "images/featured-posts-2-dark.png",
+            "label": "3 columns light",
+            "thumbnail": "images/post-feed-3-light.png",
             "data": {
-                "variant": "variant-c",
-                "colors": "colors-c"
+                "variant": "variant-a",
+                "colors": "colors-a"
             }
         },
         {
-            "label": "3 columns dark",
-            "thumbnail": "images/featured-posts-3-dark.png",
+            "label": "List light",
+            "thumbnail": "images/post-feed-list-light.png",
             "data": {
-                "variant": "variant-a",
-                "colors": "colors-c"
+                "variant": "variant-b",
+                "colors": "colors-a"
             }
         }
     ]
