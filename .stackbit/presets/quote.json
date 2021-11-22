@@ -41,7 +41,7 @@
         },
         {
             "label": "Quote light - no bg image, text center",
-            "thumbnail": "images/quote-light-left.png",
+            "thumbnail": "images/quote-light-center.png",
             "data": {
                 "colors": "colors-a",
                 "backgroundImage": null,
