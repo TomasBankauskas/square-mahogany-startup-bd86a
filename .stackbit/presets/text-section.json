@@ -4,26 +4,7 @@
             "label": "Dark",
             "thumbnail": "images/text-section-dark.png",
             "data": {
-                "colors": "colors-c",
-                "styles": {
-                    "self": {
-                        "height": "auto",
-                        "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
-                        "alignItems": "center",
-                        "justifyContent": "center",
-                        "flexDirection": "row"
-                    },
-                    "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
-                        "textAlign": "left"
-                    },
-                    "text": {
-                        "textAlign": "left"
-                    }
-                }
+                "colors": "colors-c"
             }
         },
         {
