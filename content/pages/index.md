@@ -44,6 +44,8 @@ sections:
         borderColor: border-dark
       title:
         textAlign: left
+        margin:
+          - mb-6
       subtitle:
         textAlign: left
       text:
