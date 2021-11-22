@@ -2,7 +2,7 @@
     "model": "PostFeedSection",
     "presets": [{
             "label": "3 columns light",
-            "thumbnail": "images/featured-posts-3-light.png",
+            "thumbnail": "images/post-feed-3-light.png",
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-a"
