@@ -10,7 +10,7 @@
         },
         {
             "label": "2 columns light",
-            "thumbnail": "images/featured-posts-2-light.png",
+            "thumbnail": "images/post-feed-list-light.png",
             "data": {
                 "variant": "variant-c",
                 "colors": "colors-a"
