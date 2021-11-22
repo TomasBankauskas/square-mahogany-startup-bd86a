@@ -8,7 +8,7 @@
                 "variant": "variant-a",
                 "colors": "colors-a",
                 "showRecent": true,
-                
+                "recentCount": 3
             }
         },
         {
