@@ -39,6 +39,7 @@
                 }
             }
         },
+        
         {
             "label": "With bg image, text left",
             "thumbnail": "images/quote-light-left.png",
