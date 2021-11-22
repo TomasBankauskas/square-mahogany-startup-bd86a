@@ -7,7 +7,7 @@
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-a",
-                showRecent
+                "showRecent": true
             }
         },
         {
