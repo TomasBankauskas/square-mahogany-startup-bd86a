@@ -80,7 +80,7 @@ sections:
         margin:
           - mt-20
           - mb-20
-          - ml-20
+          - ml-1
           - mr-20
         padding:
           - pt-28
