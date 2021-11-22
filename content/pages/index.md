@@ -2,6 +2,42 @@
 title: Home
 layout: PageLayout
 sections:
+  - elementId: ''
+    colors: colors-c
+    quote: |-
+      “It’s great to see someone taking action while still maintaining a
+      sustainable fish supply to home cooks.”
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    backgroundImage:
+      url: 'https://assets.stackbit.com/components/images/default/bg.jpg'
+      altText: Product Marketing Manager Quote
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: flex-start
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: QuoteSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
