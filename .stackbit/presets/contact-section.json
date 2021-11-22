@@ -9,20 +9,17 @@
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-c",
                 "elementId": "contact-form",
-                "action": "/.netlify/functions/submission_created",
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "row"
                     },
                     "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
                         "textAlign": "left"
                     },
                     "text": {
@@ -39,20 +36,17 @@
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-c",
                 "elementId": "contact-form",
-                "action": "/.netlify/functions/submission_created",
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "row-reverse"
                     },
                     "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
                         "textAlign": "left"
                     },
                     "text": {
@@ -70,20 +64,17 @@
                 "colors": "colors-c",
                 "feature": null,
                 "elementId": "contact-form",
-                "action": "/.netlify/functions/submission_created",
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "row"
                     },
                     "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
                         "textAlign": "left"
                     },
                     "text": {
@@ -100,20 +91,17 @@
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-a",
                 "elementId": "contact-form",
-                "action": "/.netlify/functions/submission_created",
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "row"
                     },
                     "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
                         "textAlign": "left"
                     },
                     "text": {
@@ -130,20 +118,17 @@
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-a",
                 "elementId": "contact-form",
-                "action": "/.netlify/functions/submission_created",
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "row-reverse"
                     },
                     "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
                         "textAlign": "left"
                     },
                     "text": {
@@ -161,20 +146,17 @@
                 "colors": "colors-a",
                 "feature": null,
                 "elementId": "contact-form",
-                "action": "/.netlify/functions/submission_created",
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
-                        "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-12", "pb-12", "pl-4", "pr-4"],
                         "alignItems": "center",
                         "justifyContent": "center",
-                        "flexDirection": "row"
+                        "flexDirection": "row-reverse"
                     },
                     "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
                         "textAlign": "left"
                     },
                     "text": {
