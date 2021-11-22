@@ -359,6 +359,8 @@ sections:
         styles:
           title:
             textAlign: left
+            margin:
+              - mb-6
           text:
             textAlign: left
       - type: ItemBlock
