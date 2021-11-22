@@ -44,15 +44,7 @@
             "thumbnail": "images/quote-light-left.png",
             "data": {
                 "colors": "colors-a",
-                "backgroundImage": {
-                    "url": "https://assets.stackbit.com/components/images/default/bg.jpg",
-                    "altText": "Product Marketing Manager Quote",
-                    "styles": {
-                        "self": {
-                            "opacity": 100
-                        }
-                    }
-                },
+                "backgroundImage": null,
                 "styles": {
                     "self": {
                         "height": "auto",
