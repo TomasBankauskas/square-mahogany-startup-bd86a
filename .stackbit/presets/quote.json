@@ -5,7 +5,7 @@
             "label": "Quote light - With bg image, text left",
             "thumbnail": "images/quote-light-left.png",
             "data": {
-                "colors": "colors-c",
+                "colors": "colors-a",
                 "backgroundImage": {
                     "url": "https://assets.stackbit.com/components/images/default/bg.jpg",
                     "altText": "Product Marketing Manager Quote",
