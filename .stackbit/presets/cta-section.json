@@ -6,6 +6,7 @@
             "thumbnail": "images/cta-light-bottom.png",
             "data": {
                 "colors": "colors-a",
+                "backgroundImage": null,
                 "styles": {
                     "self": {
                         "height": "auto",
@@ -33,6 +34,7 @@
             "thumbnail": "images/cta-light-right.png",
             "data": {
                 "colors": "colors-a",
+                "backgroundImage": null,
                 "styles": {
                     "self": {
                         "height": "auto",
@@ -60,6 +62,7 @@
             "thumbnail": "images/cta-dark-bottom.png",
             "data": {
                 "colors": "colors-c",
+                "backgroundImage": null,
                 "styles": {
                     "self": {
                         "height": "auto",
@@ -87,6 +90,7 @@
             "thumbnail": "images/cta-dark-right.png",
             "data": {
                 "colors": "colors-c",
+                "backgroundImage": null,
                 "styles": {
                     "self": {
                         "height": "auto",
