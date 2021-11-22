@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "2 columns light",
+            "label": "List light",
             "thumbnail": "images/post-feed-list-light.png",
             "data": {
                 "variant": "variant-c",
