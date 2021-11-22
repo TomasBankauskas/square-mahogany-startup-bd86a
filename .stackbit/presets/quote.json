@@ -2,7 +2,7 @@
     "model": "QuoteSection",
     "presets": [{
             "label": "With bg image, text left",
-            "thumbnail": "images/quote-image-bottom.png",
+            "thumbnail": "images/quote-light-left.png",
             "data": {
                 "colors": "colors-c",
                 "backgroundImage": {
