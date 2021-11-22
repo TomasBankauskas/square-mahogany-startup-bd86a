@@ -92,6 +92,8 @@ sections:
         flexDirection: row
       title:
         textAlign: left
+        margin:
+          - mb-6
       subtitle:
         textAlign: left
       text:
