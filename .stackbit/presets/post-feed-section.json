@@ -1,6 +1,7 @@
 {
     "model": "PostFeedSection",
-    "presets": [{
+    "presets": [
+        {
             "label": "3 columns light",
             "thumbnail": "images/post-feed-3-light.png",
             "data": {
