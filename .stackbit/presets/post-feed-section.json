@@ -16,7 +16,9 @@
             "thumbnail": "images/post-feed-list-light.png",
             "data": {
                 "variant": "variant-b",
-                "colors": "colors-a"
+                "colors": "colors-a",
+                "showRecent": true,
+                "recentCount": 3
             }
         },
         {
