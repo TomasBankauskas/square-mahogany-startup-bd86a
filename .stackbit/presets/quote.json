@@ -73,7 +73,7 @@
             "label": "Quote light - with bg image, text left",
             "thumbnail": "images/quote-light-left.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-c",
                 "backgroundImage": {
                     "url": "https://assets.stackbit.com/components/images/default/bg.jpg",
                     "altText": "Product Marketing Manager Quote",
