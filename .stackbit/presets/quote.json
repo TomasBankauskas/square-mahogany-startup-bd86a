@@ -108,8 +108,8 @@
             }
         },
         {
-            "label": "Quote light - no bg image, text center",
-            "thumbnail": "images/quote-light-left.png",
+            "label": "Quote dark - no bg image, text center",
+            "thumbnail": "images/quote-dark-left.png",
             "data": {
                 "colors": "colors-c",
                 "backgroundImage": null,
