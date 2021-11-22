@@ -1,6 +1,7 @@
 {
     "model": "QuoteSection",
-    "presets": [{
+    "presets": [
+        {
             "label": "With bg image, text left",
             "thumbnail": "images/quote-light-left.png",
             "data": {
