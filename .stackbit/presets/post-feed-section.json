@@ -12,7 +12,7 @@
             "label": "List light",
             "thumbnail": "images/post-feed-list-light.png",
             "data": {
-                "variant": "variant-c",
+                "variant": "variant-b",
                 "colors": "colors-a"
             }
         },
