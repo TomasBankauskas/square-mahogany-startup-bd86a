@@ -51,37 +51,6 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-c
-    title: The Section Title
-    subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-    type: TextSection
-  - elementId: ''
     colors: colors-f
     title: Where did everyone go?
     text: >
