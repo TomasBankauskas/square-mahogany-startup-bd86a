@@ -43,14 +43,6 @@
                 "styles": {
                     "self": {
                         "flexDirection": "row-reverse"
-                    },
-                    "title": {
-                        "fontWeight": 700,
-                        "fontStyle": "normal",
-                        "textAlign": "left"
-                    },
-                    "text": {
-                        "textAlign": "left"
                     }
                 }
             }
